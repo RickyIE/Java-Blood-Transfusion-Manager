@@ -1,0 +1,211 @@
+
+*********** appointments ***********
+
+Recipient: < Ahmed Davila >    Blood Type: < O- >
+Donor: < Kaitlyn Velasquez >            Blood Type: < O- >
+Date: <  8:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < William Rowe >    Blood Type: < O- >
+Donor: < Samantha Herrera >            Blood Type: < O- >
+Date: <  9:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Ernest Henderson >    Blood Type: < O- >
+Donor: < Melanie Vazquez >            Blood Type: < O- >
+Date: <  10:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Russell Hart >    Blood Type: < O- >
+Donor: < Lukas Larsen >            Blood Type: < O- >
+Date: <  11:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Stanley Cunningham >    Blood Type: < B- >
+Donor: < Harold Haley >            Blood Type: < B- >
+Date: <  12:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Jared Shields >    Blood Type: < A- >
+Donor: < Edward Mills >            Blood Type: < A- >
+Date: <  13:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Walter Atkins >    Blood Type: < A- >
+Donor: < Freddy Bowers >            Blood Type: < A- >
+Date: <  14:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < May Smith >    Blood Type: < AB- >
+Donor: < Tara Stephens >            Blood Type: < AB- >
+Date: <  15:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Mohammed Kim >    Blood Type: < O+ >
+Donor: < Garfield Downs >            Blood Type: < O+ >
+Date: <  16:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Hafsa Cox >    Blood Type: < O+ >
+Donor: < Andre Doyle >            Blood Type: < O+ >
+Date: <  17:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Rebekah Bridges >    Blood Type: < O+ >
+Donor: < Ieuan Nicholson >            Blood Type: < O+ >
+Date: <  18:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Penelope Logan >    Blood Type: < O+ >
+Donor: < Hector Gonzalez >            Blood Type: < O+ >
+Date: <  19:00 Tue 8-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Margaret Tran >    Blood Type: < O+ >
+Donor: < Ronan Pacheco >            Blood Type: < O+ >
+Date: <  8:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Myles Wade >    Blood Type: < O+ >
+Donor: < Niall Juarez >            Blood Type: < O+ >
+Date: <  9:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Sapphire Russo >    Blood Type: < O+ >
+Donor: < Jenna Stein >            Blood Type: < O+ >
+Date: <  10:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Tina Peck >    Blood Type: < O+ >
+Donor: < Faith Wilson >            Blood Type: < O+ >
+Date: <  11:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Maisy Whitaker >    Blood Type: < B+ >
+Donor: < Ruben Dalton >            Blood Type: < B+ >
+Date: <  12:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Maggie Knapp >    Blood Type: < B+ >
+Donor: < Faye Chen >            Blood Type: < B+ >
+Date: <  13:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Bilal Wilkinson >    Blood Type: < B+ >
+Donor: < Lowri Phelps >            Blood Type: < B+ >
+Date: <  14:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Antony Hampton >    Blood Type: < B+ >
+Donor: < Dale Ross >            Blood Type: < B+ >
+Date: <  15:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Lucas Alvarez >    Blood Type: < A+ >
+Donor: < Kayla Bloggs >            Blood Type: < A+ >
+Date: <  16:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Karen Shah >    Blood Type: < A+ >
+Donor: < Junior Simmons >            Blood Type: < A+ >
+Date: <  17:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Kimberley Lester >    Blood Type: < A+ >
+Donor: < Mae Guzman >            Blood Type: < A+ >
+Date: <  18:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Andre Morrison >    Blood Type: < A+ >
+Donor: < Stephen Montgomery >            Blood Type: < A+ >
+Date: <  19:00 Wed 9-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Owen Vargas >    Blood Type: < A+ >
+Donor: < Pearl Barton >            Blood Type: < A+ >
+Date: <  8:00 Thu 10-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Kiara Velazquez >    Blood Type: < AB+ >
+Donor: < Jak Lawson >            Blood Type: < AB+ >
+Date: <  9:00 Thu 10-9-2020  >
+-------------------------------------------------------------------
+Recipient: < Traci Briggs >    Blood Type: < AB+ >
+Donor: < Kaitlyn Velasquez >            Blood Type: < O- >
+Date: <  8:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Julie Leon >    Blood Type: < O- >
+Donor: < Samantha Herrera >            Blood Type: < O- >
+Date: <  9:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Rhea West >    Blood Type: < O- >
+Donor: < Melanie Vazquez >            Blood Type: < O- >
+Date: <  10:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Milly Harding >    Blood Type: < O- >
+Donor: < Lukas Larsen >            Blood Type: < O- >
+Date: <  11:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Anastasia Holloway >    Blood Type: < B- >
+Donor: < Harold Haley >            Blood Type: < B- >
+Date: <  12:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Ebony Cline >    Blood Type: < A- >
+Donor: < Edward Mills >            Blood Type: < A- >
+Date: <  13:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Tyler Gaines >    Blood Type: < A- >
+Donor: < Freddy Bowers >            Blood Type: < A- >
+Date: <  14:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Louisa Trujillo >    Blood Type: < AB- >
+Donor: < Tara Stephens >            Blood Type: < AB- >
+Date: <  15:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Bailey Miller >    Blood Type: < O+ >
+Donor: < Garfield Downs >            Blood Type: < O+ >
+Date: <  16:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Mark Adams >    Blood Type: < O+ >
+Donor: < Andre Doyle >            Blood Type: < O+ >
+Date: <  17:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Anais Morton >    Blood Type: < O+ >
+Donor: < Ieuan Nicholson >            Blood Type: < O+ >
+Date: <  18:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Alina Page >    Blood Type: < O+ >
+Donor: < Hector Gonzalez >            Blood Type: < O+ >
+Date: <  19:00 Tue 3-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Lorenzo Palmer >    Blood Type: < O+ >
+Donor: < Ronan Pacheco >            Blood Type: < O+ >
+Date: <  8:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Edith Cruz >    Blood Type: < O+ >
+Donor: < Niall Juarez >            Blood Type: < O+ >
+Date: <  9:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Erika Hull >    Blood Type: < O+ >
+Donor: < Jenna Stein >            Blood Type: < O+ >
+Date: <  10:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Joyce Donaldson >    Blood Type: < O+ >
+Donor: < Faith Wilson >            Blood Type: < O+ >
+Date: <  11:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Anna Keller >    Blood Type: < B+ >
+Donor: < Ruben Dalton >            Blood Type: < B+ >
+Date: <  12:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Stephanie Bowen >    Blood Type: < B+ >
+Donor: < Faye Chen >            Blood Type: < B+ >
+Date: <  13:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Mathew Nash >    Blood Type: < B+ >
+Donor: < Lowri Phelps >            Blood Type: < B+ >
+Date: <  14:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Kian Winter >    Blood Type: < B+ >
+Donor: < Dale Ross >            Blood Type: < B+ >
+Date: <  15:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Meghan Cochran >    Blood Type: < A+ >
+Donor: < Kayla Bloggs >            Blood Type: < A+ >
+Date: <  16:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Warren Crosby >    Blood Type: < A+ >
+Donor: < Junior Simmons >            Blood Type: < A+ >
+Date: <  17:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Renee Trujillo >    Blood Type: < A+ >
+Donor: < Mae Guzman >            Blood Type: < A+ >
+Date: <  18:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Anne Dillon >    Blood Type: < A+ >
+Donor: < Stephen Montgomery >            Blood Type: < A+ >
+Date: <  19:00 Wed 4-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Robbie Keith >    Blood Type: < A+ >
+Donor: < Pearl Barton >            Blood Type: < A+ >
+Date: <  8:00 Thu 5-11-2020  >
+-------------------------------------------------------------------
+Recipient: < Elise Newton >    Blood Type: < O- >
+Donor: < Kaitlyn Velasquez >            Blood Type: < O- >
+Date: <  8:00 Tue 29-12-2020  >
+-------------------------------------------------------------------
